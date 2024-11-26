@@ -1,4 +1,4 @@
-# RCH Notes Document
+# RCH Notes - Dotmatics Developer
 
 ![RCH Solutions Logo](https://www.rchsolutions.com/wp-content/uploads/2019/04/rch.logo_.fullcolor-1.png)
 
