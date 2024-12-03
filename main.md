@@ -11,7 +11,8 @@ Run this file using: `markserv path/to/your/markdown/main.md`
 <summary><span style="color:#3368ff; font-weight:bold;">2024</summary>
 
   - [October 2024](./2024/10_2024.md)
-  - <a href="./2024/11_2024.md" style="color:#3368ff; font-weight: bold;">November 2024</a>
+  - [November 2024](./2024/11_2024.md)
+  - <a href="./2024/12_2024.md" style="color:#3368ff; font-weight: bold;">December 2024</a>
 </details>
 
 
