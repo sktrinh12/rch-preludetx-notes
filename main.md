@@ -7,15 +7,17 @@
 Each day was documented with code snippets and basic notes.
 Run this file using: `markserv path/to/your/markdown/main.md`
 
-<details open>
-<summary><span style="color:#3368ff; font-weight:bold;">2024</summary>
+<details close>
+<summary>2024</summary>
 
   - [October 2024](./2024/10_2024.md)
   - [November 2024](./2024/11_2024.md)
-  - <a href="./2024/12_2024.md" style="color:#3368ff; font-weight: bold;">December 2024</a>
+  - [December 2024](./2024/12_2024.md)
 </details>
 
 
-<details>
-<summary>2025</summary>
+<details open>
+<summary><span style="color:#6495ED; font-weight:bold;">2025</summary>
+
+  - <a href="./2025/01_2025.md" style="color:#6495ED; font-weight: bold;">Janurary 2025</a>
 </details>
