@@ -20,5 +20,6 @@ Run this file using: `markserv path/to/your/markdown/main.md`
 <summary><span style="color:#6495ED; font-weight:bold;">2025</summary>
 
   - [January 2025](./2025/01_2025.md)
-  - <a href="./2025/02_2025.md" style="color:#6495ED; font-weight: bold;">February 2025</a>
+  - [February 2025](./2025/02_2025.md)
+  - <a href="./2025/03_2025.md" style="color:#6495ED; font-weight: bold;">March 2025</a>
 </details>
